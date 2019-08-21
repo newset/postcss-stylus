@@ -1,0 +1,28 @@
+{
+  "name": "@newset/postces-stylus",
+  "version": "1.0.0",
+  "description": "stylus syntax for postcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newset/postcss-stylus.git"
+  },
+  "keywords": [
+    "postcss",
+    "stylus",
+    "syntax"
+  ],
+  "author": "luojie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newset/postcss-stylus/issues"
+  },
+  "homepage": "https://github.com/newset/postcss-stylus#readme",
+  "dependencies": {
+    "postcss": "^7.0.17",
+    "stylus": "^0.54.6"
+  }
+}
